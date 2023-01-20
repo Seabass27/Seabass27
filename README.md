@@ -1,6 +1,6 @@
 ### Hi there my name is Sebastian Quinn
 
-<h1>Hi, I'm Sebastian, an aspiring<a href="https://linkedin.com/in/sebastian-quinn-64bb0925b/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Sebastian, an aspiring <a href="https://linkedin.com/in/sebastian-quinn-64bb0925b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
